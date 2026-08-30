@@ -53,3 +53,6 @@ Open http://localhost:3000
 
 ## 5. Important
 The "viral score" is an optimization heuristic, not a guarantee of virality. Real prediction should later be trained on creator-level historical data and platform analytics.
+
+
+![alt text](image.png)
